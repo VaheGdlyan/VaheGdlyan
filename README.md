@@ -24,14 +24,19 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 
 ---
 
-### 🔬 The Architecture Lab
-*My repositories are living systems. I am constantly building, deploying, and deprecating models to push the ceiling of my own capabilities. Here is what is currently active:*
+### 🔬 Latest Architecture
+*My repositories are living systems. Codebases are actively refactored and deprecated as my mathematical understanding of deep architectures evolves. Here is the current flagship deployment:*
 
-* **[Project 1: Placeholder for your next architecture]** — *A brief, one-sentence description of the problem it solves and the math used.*
-* **[Project 2: Placeholder for another system]** — *A brief, one-sentence description.*
-* **[AgriVision: End-to-End CV Decision Support]** — *YOLOv8 architecture with custom focal boundary loss to eliminate zero-IoU hallucinated detections.*
+**[🌾 AgriVision: End-to-End CV Decision Support](https://github.com/VaheGdlyan/Agriculture_Decision_system)**
+> An operational YOLOv8 pipeline deployed via Hugging Face. Engineered a custom focal boundary loss with adaptive photometric weighting to handle dense canopy overlap, deliberately trading marginal recall to eliminate critical zero-IoU hallucinated detections.
 
-*(Note: Codebases are actively refactored as my understanding of deep architectures evolves.)*
+---
+
+### 📊 Engineering Telemetry
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaheGdlyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaheGdlyan&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+</div>
 
 ---
 
