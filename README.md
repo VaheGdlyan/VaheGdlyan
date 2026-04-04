@@ -14,7 +14,7 @@
 ---
 
 ### 🧠 The Core Philosophy
-That quote isn't just a motto; it is the bridge between my professional identity and my engineering output. You don't get lucky in Machine Learning. You don't get lucky building deterministic AI. You have to earn the right to succeed by putting in the brutal, unseen hours of mathematical study and algorithmic discipline. This repository is where I prove the work.
+That quote isn't  just a motto; it is the bridge between my professional identity and my engineering output. You don't get lucky in Machine Learning. You don't get lucky building deterministic AI. You have to earn the right to succeed by putting in the brutal, unseen hours of mathematical study and algorithmic discipline. This repository is where I prove the work.
 
 ### ⚙️ The Engineering Pipeline: Theory Meets Production
 I operate on a strict two-pillar system. True mastery requires both understanding the math and deploying the code. I build in public to make complex systems accessible.
