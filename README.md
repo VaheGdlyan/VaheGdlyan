@@ -5,7 +5,7 @@
   <p>
     <a href="https://www.linkedin.com/in/vahe-gdlyan-1415873a7/"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://medium.com/@gdlyanvahe31"><img src="https://img.shields.io/badge/Medium-UnderTheHood-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-    <a href="VaheGdlyan_CV.pdf"><img src="https://img.shields.io/badge/CV-Engineering_Resume-8B0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/></a>
+    <a href="Vahe_Gdlyan_ML_Engineer_CV.pdf"><img src="https://img.shields.io/badge/CV-Engineering_Resume-8B0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/></a>
   </p>
 
   <i>"If you want to win a lottery, you have to make the money to buy the ticket."</i>
@@ -14,7 +14,7 @@
 ---
 
 ### 🧠 The Core Philosophy
-That quote isn't  just a motto; it is the bridge between my professional identity and my engineering output. You don't get lucky in Machine Learning. You don't get lucky building deterministic AI. You have to earn the right to succeed by putting in the brutal, unseen hours of mathematical study and algorithmic discipline. This repository is where I prove the work.
+That quote isn't just a motto; it is the bridge between my professional identity and my engineering output. You don't get lucky in Machine Learning. You don't get lucky building deterministic AI. You have to earn the right to succeed by putting in the brutal, unseen hours of mathematical study and algorithmic discipline. This repository is where I prove the work.
 
 ### ⚙️ The Engineering Pipeline: Theory Meets Production
 I operate on a strict two-pillar system. True mastery requires both understanding the math and deploying the code. I build in public to make complex systems accessible.
@@ -27,15 +27,16 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 ### 🔬 Latest Architecture
 *My repositories are living systems. Codebases are actively refactored and deprecated as my mathematical understanding of deep architectures evolves. Here is the current flagship deployment:*
 
-**[🌾 AgriVision: End-to-End CV Decision Support](https://github.com/VaheGdlyan/Agriculture_Decision_system)**
+**[🌾 AgriVision: End-to-End CV Decision Support](https://github.com/VaheGdlyan/Agriculture_Decision_System.)**
 > An operational YOLOv8 pipeline deployed via Hugging Face. Engineered a custom focal boundary loss with adaptive photometric weighting to handle dense canopy overlap, deliberately trading marginal recall to eliminate critical zero-IoU hallucinated detections.
 
 ---
 
 ### 📊 Engineering Telemetry
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaheGdlyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaheGdlyan&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VaheGdlyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vahe's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaheGdlyan&theme=tokyonight&hide_border=true&background=0D1117" alt="Vahe's GitHub Streak" />
 </div>
 
 ---
