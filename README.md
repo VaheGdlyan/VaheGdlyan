@@ -20,7 +20,7 @@ That quote isn't just a motto; it is the bridge between my professional identity
 I operate on a strict two-pillar system. True mastery requires both understanding the math and deploying the code. I build in public to make complex systems accessible.
 
 * ✍️ **[UnderTheHood (Medium)](https://medium.com/@gdlyanvahe31) | The Theory:** Dissecting complex ML architectures, custom loss functions, and backpropagation mechanics. I break down the "black boxes" of AI to teach the underlying math. If you want to understand the *why*, start here.
-* 💻 **[The Repositories (GitHub)](#) | The Action:** The deterministic proof. This is where theory becomes production-grade code. From scratch implementations to out-of-distribution boundary analysis. If you want to see the *how*, dive into my codebases below.
+* 💻 **[The Repositories (GitHub)](https://github.com/VaheGdlyan?tab=repositories) | The Action:** The deterministic proof. This is where theory becomes production-grade code. From scratch implementations to out-of-distribution boundary analysis. If you want to see the *how*, dive into my codebases below.
 
 ---
 
