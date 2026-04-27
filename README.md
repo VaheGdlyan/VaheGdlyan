@@ -27,7 +27,7 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 ### 🔬 Latest Architecture
 *My repositories are living systems. Codebases are actively refactored and deprecated as my mathematical understanding of deep architectures evolves. Here is the current flagship deployment:*
 
-**[🌾 AgriVision: End-to-End CV Decision Support](https://github.com/VaheGdlyan/Agriculture_Decision_System.)**
+**[📈 Freemium Revenue Intelligence System](https://github.com/VaheGdlyan/DS_Projects)**
 > An operational YOLOv8 pipeline deployed via Hugging Face. Engineered a custom focal boundary loss with adaptive photometric weighting to handle dense canopy overlap, deliberately trading marginal recall to eliminate critical zero-IoU hallucinated detections.
 
 ---
