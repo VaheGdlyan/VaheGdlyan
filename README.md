@@ -28,7 +28,7 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 *My repositories are living systems. Codebases are actively refactored and deprecated as my mathematical understanding of deep architectures evolves. Here is the current flagship deployment:*
 
 **[📈 Freemium Revenue Intelligence System](https://github.com/VaheGdlyan/DS_Projects)**
-> An operational YOLOv8 pipeline deployed via Hugging Face. Engineered a custom focal boundary loss with adaptive photometric weighting to handle dense canopy overlap, deliberately trading marginal recall to eliminate critical zero-IoU hallucinated detections.
+> This repository identifies monetization friction via funnel analysis, revealing that a critical minority of users successfully convert. It validates product interventions using SRM-verified A/B testing—including audits for Simpson’s Paradox to ensure segment-level consistency—and deploys a two-stage ML pipeline. Optimized with Platt Scaling, the system overcomes extreme class imbalance to deliver high-precision revenue forecasts from just 72 hours of user behavior.
 
 ---
 
