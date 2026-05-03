@@ -5,7 +5,7 @@
   <p>
     <a href="https://www.linkedin.com/in/vahe-gdlyan-1415873a7/"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://medium.com/@gdlyanvahe31"><img src="https://img.shields.io/badge/Medium-UnderTheHood-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-    <a href="VaheGdlyan_CV.pdf"><img src="https://img.shields.io/badge/CV-Engineering_Resume-8B0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/></a>
+    <a href="Vahe_Gdlyan_CV.pdf"><img src="https://img.shields.io/badge/CV-Engineering_Resume-8B0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/></a>
   </p>
 
   <i>"If you want to win a lottery, you have to make the money to buy the ticket."</i>
