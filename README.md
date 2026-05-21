@@ -27,8 +27,8 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 ### 🔬 Latest Architecture
 *My repositories are living systems. Codebases are actively refactored and deprecated as my mathematical understanding of deep architectures evolves. Here is the current flagship deployment:*
 
-**[📈 Freemium Revenue Intelligence System](https://github.com/VaheGdlyan/DS_Projects)**
-> This repository identifies monetization friction via funnel analysis, revealing that a critical minority of users successfully convert. It validates product interventions using SRM-verified A/B testing—including audits for Simpson’s Paradox to ensure segment-level consistency—and deploys a two-stage ML pipeline. Optimized with Platt Scaling, the system overcomes extreme class imbalance to deliver high-precision revenue forecasts from just 72 hours of user behavior.
+**[👔 Vestimate: AI-Native Wardrobe & Styling Engine](https://github.com/VaheGdlyan/Vestimate)**
+> This repository deploys an asynchronous, end-to-end computer vision pipeline for contextual outfit generation. Mobile image uploads are routed through a FastAPI gateway and a Redis/Celery broker to a dedicated Modal T4 GPU, where U-2-Net executes precise semantic segmentation alongside FashionCLIP for zero-shot categorization. Environmental context (Open-Meteo, Google Calendar) is synthesized to query a 512-dimensional Supabase pgvector space via IVFFlat cosine search. A dual-stage RAG architecture, fortified by a strict Python-based cross-validating hallucination guard, enforces hard grounding before delivering verified outfit recommendations back to the Flutter UI.
 
 ---
 
