@@ -1,6 +1,6 @@
 <div align="center">
   <h1>VAHE GDLYAN</h1>
-  <h3>Computer Vision & Machine Learning Researcher</h3>
+  <h3>Machine Learning Engineer & Data Scientist</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/vahe-gdlyan-1415873a7/"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
