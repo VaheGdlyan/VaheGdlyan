@@ -25,10 +25,11 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 ---
 
 ### 🔬 Latest Architecture
+
 *My repositories are living systems. Codebases are actively refactored and deprecated as my mathematical understanding of deep architectures evolves. Here is the current flagship deployment:*
 
-**[👔 Vestimate: AI-Native Wardrobe & Styling Engine](https://github.com/VaheGdlyan/Vestimate)**
-> This repository deploys an asynchronous, end-to-end computer vision pipeline for contextual outfit generation. Mobile image uploads are routed through a FastAPI gateway and a Redis/Celery broker to a dedicated Modal T4 GPU, where U-2-Net executes precise semantic segmentation alongside FashionCLIP for zero-shot categorization. Environmental context (Open-Meteo, Google Calendar) is synthesized to query a 512-dimensional Supabase pgvector space via IVFFlat cosine search. A dual-stage RAG architecture, fortified by a strict Python-based cross-validating hallucination guard, enforces hard grounding before delivering verified outfit recommendations back to the Flutter UI.
+**[<img src="https://raw.githubusercontent.com/VaheGdlyan/NucleAI/main/assets/logo.png" width="22" height="22" align="center" style="margin-right: 5px;"> NucleAI: Grounded RAG Pipeline & Deterministic Grid Simulator](https://github.com/VaheGdlyan/NucleAI)**
+> This repository deploys a bifurcated architecture combining a FastAPI-driven Retrieval-Augmented Generation (RAG) pipeline with a deterministic mathematical simulation engine. A custom pure-Python ingestion script bypasses standard LangChain abstractions, executing a granular chunking cascade to embed IAEA documents into a local ChromaDB vector space via `text-embedding-3-small`. At inference time, top-k cosine similarity retrieval enforces hard context grounding for `gpt-4o-mini` completions, serving a Streamlit multi-page UI. Operating in parallel, a standalone vanilla JavaScript engine executes piecewise-linear mathematical models, computing dynamic grid stability limits, CO₂ lifecycle emissions, and energy cost penalties based on user-allocated generation mixes.
 
 ---
 
