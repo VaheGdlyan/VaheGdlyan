@@ -30,7 +30,7 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 
 <br>
 
-**[<img src="https://raw.githubusercontent.com/VaheGdlyan/NucleAI/main/assets/logo.png" width="45" align="center" style="margin-right: 8px;"> NucleAI: Interactive Energy Simulator & Verifiable AI](https://github.com/VaheGdlyan/NucleAI)**
+**[<img src="https://raw.githubusercontent.com/VaheGdlyan/NucleAI/main/assets/logo.png" width="120" align="absmiddle" style="margin-right: 12px;"> NucleAI: Interactive Energy Simulator & Verifiable AI](https://github.com/VaheGdlyan/NucleAI)**
 > What if you could ask any question about radiation safety and get a direct answer backed purely by verified IAEA data? What if you were given a $1,000,000 budget to design a country's energy mix, actively balancing grid stability against climate impact and financial cost? NucleAI bridges the gap between raw data and public understanding by combining an AI research assistant with a playable, physics-based simulator. It makes the massive trade-offs involved in managing a national energy grid transparent, interactive, and undeniably real.
 ---
 
