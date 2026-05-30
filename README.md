@@ -28,9 +28,10 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 
 *My repositories are living systems. Codebases are actively refactored and deprecated as my mathematical understanding of deep architectures evolves. Here is the current flagship deployment:*
 
-**[<img src="https://raw.githubusercontent.com/VaheGdlyan/NucleAI/main/assets/logo.png" width="22" height="22" align="center" style="margin-right: 5px;"> NucleAI: Grounded RAG Pipeline & Deterministic Grid Simulator](https://github.com/VaheGdlyan/NucleAI)**
-> This repository deploys a bifurcated architecture combining a FastAPI-driven Retrieval-Augmented Generation (RAG) pipeline with a deterministic mathematical simulation engine. A custom pure-Python ingestion script bypasses standard LangChain abstractions, executing a granular chunking cascade to embed IAEA documents into a local ChromaDB vector space via `text-embedding-3-small`. At inference time, top-k cosine similarity retrieval enforces hard context grounding for `gpt-4o-mini` completions, serving a Streamlit multi-page UI. Operating in parallel, a standalone vanilla JavaScript engine executes piecewise-linear mathematical models, computing dynamic grid stability limits, CO₂ lifecycle emissions, and energy cost penalties based on user-allocated generation mixes.
+<br>
 
+**[<img src="https://raw.githubusercontent.com/VaheGdlyan/NucleAI/main/assets/logo.png" width="45" align="center" style="margin-right: 8px;"> NucleAI: Interactive Energy Simulator & Verifiable AI](https://github.com/VaheGdlyan/NucleAI)**
+> What if you could ask any question about radiation safety and get a direct answer backed purely by verified IAEA data? What if you were given a $1,000,000 budget to design a country's energy mix, actively balancing grid stability against climate impact and financial cost? NucleAI bridges the gap between raw data and public understanding by combining an AI research assistant with a playable, physics-based simulator. It makes the massive trade-offs involved in managing a national energy grid transparent, interactive, and undeniably real.
 ---
 
 ### 📊 Engineering Telemetry
