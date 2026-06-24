@@ -30,8 +30,8 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 
 <br>
 
-**[<img src="https://raw.githubusercontent.com/VaheGdlyan/NucleAI/main/assets/logo.png" width="120" align="absmiddle" style="margin-right: 12px;"> NucleAI: Interactive Energy Simulator & Verifiable AI](https://github.com/VaheGdlyan/NucleAI)**
-> What if you could ask any question about radiation safety and get a direct answer backed purely by verified IAEA data? What if you were given a $1,000,000 budget to design a country's energy mix, actively balancing grid stability against climate impact and financial cost? NucleAI bridges the gap between raw data and public understanding by combining an AI research assistant with a playable, physics-based simulator. It makes the massive trade-offs involved in managing a national energy grid transparent, interactive, and undeniably real.
+**[⚡ cleanframe: The Hardware-Optimized Data Intelligence Framework](https://github.com/VaheGdlyan/cleanframe)**
+> What if you could process massive, 100GB+ datasets on a heavily constrained dual-core CPU without ever triggering an Out-Of-Memory crash? What if your data pipeline didn't just blindly drop rows, but acted as a diagnostic shield—detecting ML target leakage, enforcing complex business logic, and unifying fuzzy strings with mathematical precision? Cleanframe bridges the gap between enterprise data scale and hardware limits by combining DuckDB out-of-core streaming with backend-agnostic vectorization. It transforms data cleaning from a reckless script into a rigorously audited, "Do No Harm" intelligence engine.
 ---
 
 ### 📊 Engineering Telemetry
