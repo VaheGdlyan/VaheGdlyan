@@ -34,9 +34,9 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 <br>
 
 **[neuro-tmr-research: Evidence-Based Translation of Targeted Memory Reactivation](https://github.com/VaheGdlyan/neuro-tmr-research)**  
-![Domain](https://img.shields.io/badge/DOMAIN-NEUROSCIENCE-000000?style=for-the-badge) ![System](https://img.shields.io/badge/ARCHITECTURE-CLOSED_LOOP-000000?style=for-the-badge) ![Status](https://img.shields.io/badge/PAPER-COMPLETE-000000?style=for-the-badge)
+![Researching](https://img.shields.io/badge/-RESEARCHING-C62828?style=for-the-badge&logo=googlescholar&logoColor=white)
 
-> How do we translate the biological mechanisms of sleep-dependent memory consolidation into a real-time, closed-loop engineering system? This repository houses the complete translational methodology for Targeted Memory Reactivation (TMR).
+> How do we translate the biological mechanisms of sleep-dependent memory consolidation into a real-time, closed-loop engineering system? This repository houses the complete translational methodology for Targeted Memory Reactivation (TMR). It bridges cognitive neuroscience and wearable neurotechnology, systematically evaluating EEG versus peripheral sensing for causal state estimation. The result is a strict, evidence-bounded reference pathway for automated memory modulation—proving that neuroscience must inform engineering, and engineering must not precede evidence.
 ---
 
 ### 📊 Engineering Telemetry
