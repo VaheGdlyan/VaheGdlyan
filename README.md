@@ -29,12 +29,14 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 
 ### 🔬 Latest Architecture
 
-*My repositories are living systems. Codebases are actively refactored and deprecated as my mathematical understanding of deep architectures evolves. Here is the current flagship deployment:*
+*My repositories are living systems. Codebases and papers are actively refactored as my mathematical and biological understanding of complex systems evolves. Here is the current flagship research:*
 
 <br>
 
-**[⚡ cleanframe: The Hardware-Optimized Data Intelligence Framework](https://github.com/VaheGdlyan/cleanframe)**
-> What if you could process massive, 100GB+ datasets on a heavily constrained dual-core CPU without ever triggering an Out-Of-Memory crash? What if your data pipeline didn't just blindly drop rows, but acted as a diagnostic shield—detecting ML target leakage, enforcing complex business logic, and unifying fuzzy strings with mathematical precision? Cleanframe bridges the gap between enterprise data scale and hardware limits by combining DuckDB out-of-core streaming with backend-agnostic vectorization. It transforms data cleaning from a reckless script into a rigorously audited, "Do No Harm" intelligence engine.
+**[neuro-tmr-research: Evidence-Based Translation of Targeted Memory Reactivation](https://github.com/VaheGdlyan/neuro-tmr-research)**  
+![Domain](https://img.shields.io/badge/Domain-Translational_Neuroscience-05122A?style=flat-square) ![Architecture](https://img.shields.io/badge/Architecture-Closed--Loop_EEG-0052CC?style=flat-square) ![Phase](https://img.shields.io/badge/Status-Publication_Ready-00C853?style=flat-square)
+
+> How do we translate the biological mechanisms of sleep-dependent memory consolidation into a real-time, closed-loop engineering system? This repository houses the complete translational methodology for Targeted Memory Reactivation (TMR). It bridges cognitive neuroscience and wearable neurotechnology, systematically evaluating EEG versus peripheral sensing for causal state estimation. The result is a strict, evidence-bounded reference pathway for automated memory modulation—proving that neuroscience must inform engineering, and engineering must not precede evidence.
 ---
 
 ### 📊 Engineering Telemetry
