@@ -33,7 +33,7 @@ I operate on a strict two-pillar system. True mastery requires both understandin
 
 <br>
 
-**[neuro-tmr-research](https://github.com/VaheGdlyan/neuro-tmr-research)**  
+**neuro-tmr-research**  
 ![Researching Repository](https://img.shields.io/badge/-RESEARCHING-C62828?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 > How do we translate the biological mechanisms of sleep-dependent memory consolidation into a real working validated pathway. 
